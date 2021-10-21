@@ -13,6 +13,8 @@ _To keep your balance you must keep moving._
 - Conducted inference benchmark tests on CPU via ONNX: 1.4X faster inference runtime. 
 - TensorRT engine was generated based on simplified ONNX format which potentially speeds up inference on GPU.
 
+![](https://github.com/peace-and-harmony/portfolio/blob/main/images/image_matting.png)
+
 ## [Project 2: Topic modelling/evolution](https://peace-and-harmony.github.io/nature-articles-topic-modelling/)
 
 **_Uncover the topic evolution since 1886_**
@@ -21,3 +23,4 @@ _To keep your balance you must keep moving._
 - Performed EDA for the numerical data and found that the pandemic boosts the COVID-related research areas.
 - Deployed Bertopic to investigate the evolution of Nature research article topics over 148 years.
 
+![](https://github.com/peace-and-harmony/portfolio/blob/main/images/Topics_over_time_2010.png)
