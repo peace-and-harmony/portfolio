@@ -19,10 +19,11 @@ _To keep your balance you must keep moving._
 
 ## [Project 2: Topic modelling/evolution](https://peace-and-harmony.github.io/nature-articles-topic-modelling/)
 
-**_Uncover the topic evolution since 1886_**
+**_Uncover the topic evolution since 1886._**
 
 - Scraped ~20000 Nature research articles from 1886 to 2021.
 - Performed EDA for the numerical data and found that the pandemic boosts the COVID-related research areas.
+- Some emerging disciplines, like quantum computing, global warming, are boosting without any effect of the pandemic.
 - Deployed Bertopic to investigate the evolution of Nature research article topics over 148 years.
 
 <figure align="center">
